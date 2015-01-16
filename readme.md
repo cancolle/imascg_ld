@@ -5,11 +5,11 @@
 ※リンク切れ中
 
 #ファイルたちの解説
-* cgdata.csv
+* cgdata.csv  
 シンデレラガールズのデータ
-* lig.csv
+* lig.csv  
 教師データである、ラブライブ、アイマス、ガールフレンド(仮)のデータ
-* imaslike.R
+* imaslike.R  
 最初行っていた判別分析(結局、問題ありそうなので却下)
-* imas_svm.R
+* imas_svm.R  
 実際に発表したSVMのやつ
