@@ -2,7 +2,7 @@
 
 第45回R勉強会＠東京（#TokyoR）のLTで行ったアイドルマスターシンデレラガールズに関して分析したものです。
 発表時のスライドは[こちら](http://www.slideshare.net/k_mori/tokyor-45)
-※リンク切れ中
+
 
 #ファイルたちの解説
 * cgdata.csv, cgdata_without_name.csv
